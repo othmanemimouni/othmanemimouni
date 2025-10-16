@@ -1,8 +1,10 @@
+
 <div align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Othmane+Mimouni+%F0%9F%91%8B;How+can+I+help+you%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Othmane+Mimouni+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer+%F0%9F%92%BB;I+love+coding%2C+Linux%2C+and+open-source+%F0%9F%A4%97" alt="Typing SVG" />
 </div>
 
 <br />
+
 
 <div align="center">
   <a href="https://github.com/othmanemimouni">
@@ -13,8 +15,20 @@
   </a>
 </div>
 
----
+<br/>
 
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=othmanemimouni&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmanemimouni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
 
 <h3 align="center">🚀 Tech Stack</h3>
 
@@ -28,4 +42,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS3"/>
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="utrshall@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/othmanemimouni">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
