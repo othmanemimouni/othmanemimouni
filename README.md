@@ -8,7 +8,7 @@
 
 <h2>I Code with</h2>
 <div>
-  <img src="./assets/3D-C.webp" width="60" alt="C"/>
+  <img src="./assets/3D-C.webp" width="70" alt="C"/>
 
 <img src="./assets/3D-HTML5.webp" width="45" alt="HTML5"/>
   <img src="./assets/3D-JS.webp" width="45" alt="JavaScript"/>
