@@ -19,9 +19,4 @@
   <img src="./assets/3D-GITHUB.webp" width="45" alt="GitHub"/>
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=othmanemimouni&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmanemimouni&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
-</div>
-
 </div>
