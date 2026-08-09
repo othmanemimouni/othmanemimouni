@@ -33,16 +33,3 @@
 
 </p>
 
----
-
-## Development
-
-```text
-C Programming
-████████████████████░░  90%
-
-Web Development
-██████████████████░░░░  80%
-
-Problem Solving
-█████████████████░░░░░  75%
