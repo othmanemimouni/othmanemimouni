@@ -1,6 +1,5 @@
-# Othmane Mimouni
+# Othmane Mimouni!
 
-### `Developer • Builder • Learner`
 
 <p align="center">
   <img
