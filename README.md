@@ -1,22 +1,48 @@
-<div align="center">
+# Othmane Mimouni
 
-<h1>Othmane Mimouni</h1>
+### `Developer • Builder • Learner`
 
-<p>📚 Exploring UI/UX design, 3D modeling in Blender, Figma<br/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+with+C;Learning+every+day;Turning+ideas+into+code"
+    alt="Typing animation"
+  />
+</p>
 
 ---
 
-<h2>I Code with</h2>
-<div>
+## Tech Stack
 
-<img src="./assets/3D-HTML5.webp" width="45" alt="HTML5"/>
-  <img src="./assets/3D-JS.webp" width="45" alt="JavaScript"/>
-  <img src="./assets/3D-REACT.webp" width="45" alt="React"/>
-  <img src="./assets/3D-FIGMA.webp" width="45" alt="Figma"/>
-  <img src="./assets/3D-CSS3.webp" width="45" alt="CSS3"/>
-  <img src="./assets/3D-BLENDER.webp" width="45" alt="Blender"/>
-  <img src="./assets/3D-GIT.webp" width="45" alt="Git"/>
-  <img src="./assets/3D-GITHUB.webp" width="45" alt="GitHub"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,ts,react,html,css,git,github,linux,vscode,supabase,firebase&perline=6" />
+</p>
 
-</div>
+---
+
+## GitHub
+
+<p align="center">
+
+<a href="https://github.com/OthmaneMimouni">
+  <img src="https://img.shields.io/github/followers/OthmaneMimouni?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/OthmaneMimouni?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View-000000?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+## Development
+
+```text
+C Programming
+████████████████████░░  90%
+
+Web Development
+██████████████████░░░░  80%
+
+Problem Solving
+█████████████████░░░░░  75%
