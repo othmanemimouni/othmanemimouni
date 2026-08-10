@@ -1,1 +1,3 @@
-# Hi there! I'm Othmane Mimouni
+# Hi, I'm Othmane Mimouni
+
+> No shortcuts. Just progress.
